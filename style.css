@@ -1,9 +1,10 @@
 
 body{background-color: gray;}
 
-h1{ 
+h1{ text-align:center;
  }
 
 .box{ text-align: center; 
 
 }
+.container{background-color: pink;}
