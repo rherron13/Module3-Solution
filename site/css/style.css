@@ -1,0 +1,49 @@
+
+*{ box-sizing: border-box;
+ }
+
+	/************* Header **************/
+
+
+	/************* End Header **************/
+
+	/************* Main Content **************/
+
+
+ body { font-family: "comic sans ms" }
+
+div {background-color: pink; border:2px solid black; margin: 30px; }
+ 
+
+p {padding: 15px; border:none;
+margin:30px; height: 1000px;}
+
+
+
+.title { text-align: center; background-color: #0000; 
+ 	font-size: 1.5em; border:none;}
+
+ .title2 { display: block;
+	}
+
+
+	/************* End Main Content  **************/
+
+
+	/************* Large Devices only **************/
+@media (min-width: ) {}
+
+
+
+	/************* Medium  Devices only **************/
+
+@media (min-width: ) and (max-width: ){}
+
+
+
+	/************* Mobile Devices only **************/
+
+
+@media (max-width: ){ .col-xs-12 {width: 100%; }
+
+
