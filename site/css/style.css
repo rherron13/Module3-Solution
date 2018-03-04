@@ -10,21 +10,31 @@
 	/************* Main Content **************/
 
 
- body { font-family: "comic sans ms" }
+ body { font-family: "comic sans ms"; background-color: yellow; }
 
-div {background-color: pink; border:2px solid black; margin: 30px; }
+
  
 
 p {padding: 15px; border:none;
 margin:30px; height: 1000px;}
 
-
+h1 {  position: absolute; bottom:0; left: 0; font-size: 25px; 
+margin:30px;}
 
 .title { text-align: center; background-color: #0000; 
  	font-size: 1.5em; border:none;}
+.paragraph {background-color:grey; border:2px solid black; margin: 30px; }
 
- .title2 { display: block;
+ .title2 { text-align: center; 
+ 	padding:0; margin:15px 15px 15px 15px;
+ 	font-size: 1.2em; border:none; display: block;
 	}
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+  height: 80px;
+}
 
 
 	/************* End Main Content  **************/
