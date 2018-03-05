@@ -33,7 +33,7 @@ h1 {font-size: 30px; margin:0; padding:0;
  
 
 .paragraph {background-color: pink; 
-	border:2px solid black; margin:auto; 
+	border:2px solid black; margin:0; 
 }
 
 
@@ -59,8 +59,9 @@ h1 {font-size: 30px; margin:0; padding:0;
 }
 /********** custom color end ****************/
 
-	/************* Mobile Devices only **************/
 
+	/************* Mobile Devices only **************/
+/*
 @media (max-width: 576){ .col-xs-12 {width: 100%; }
 }
 
