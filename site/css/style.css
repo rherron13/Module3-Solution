@@ -61,6 +61,6 @@ h1 {font-size: 30px; margin:0; padding:0;
 
 	/************* Mobile Devices only **************/
 
-@media (max-width: 478){ .col-xs-12 {width: 100%; }
-
+@media (max-width: 576){ .col-xs-12 {width: 100%; }
+}
 
